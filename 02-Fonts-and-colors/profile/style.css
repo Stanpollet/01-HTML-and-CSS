@@ -1,0 +1,32 @@
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color : #0c192d;
+  font-size :50px
+}
+
+h2 {
+  color : #344e77;
+}
+
+body{
+  // background-image: url("http://placehold.it/1000x1000");
+  background-color: #c5cedd;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#profilepic {
+  border-top: 10px solid #0c192d;
+  height : 300px;
+}
+
+.btn-red.hover {
+  color : #0c192d;
+}
+
+type {
+
+}
